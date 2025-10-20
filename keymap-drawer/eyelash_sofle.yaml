@@ -63,7 +63,7 @@ layers:
   - {t: '$$mdi:keyboard-return$$', type: enter}
   - $$mdi:keyboard-space$$
   - layer2
-  - RIGHT WIN
+  - RWIN
   - {t: '`', s: '~'}
   layer1:
   - {t: '`', s: '~'}
